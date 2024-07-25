@@ -6,7 +6,7 @@
       <section class="card-content">
         <div class="blog-category">Learning</div>
         <p class="blog-publish-date">Published 21 Dev 2023</p>
-        <h1 class="blog-title">HTML & CSS foundations</h1>
+        <h2 class="blog-title">HTML & CSS foundations</h2>
         <p class="blog-description">
           These languages are the backbone of every website, defining structure, content, and presentation.
         </p>

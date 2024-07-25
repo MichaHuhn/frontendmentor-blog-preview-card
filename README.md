@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Live site: [Add live site URL here](https://your-live-site-url.com)
-- Challenge solution: [Add solution URL here](https://your-solution-url.com)
+- Live site: <https://michahuhn.github.io/frontendmentor-blog-preview-card>
+- Challenge solution: <https://www.frontendmentor.io/solutions/blog-preview-card-using-vue-LoGM08uVZp>
 
 ## My process
 
